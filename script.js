@@ -12,7 +12,7 @@ function displayMessage () {
   document.getElementById('textone').style.color = 'red'
   document.getElementById('mybutton').innerHTML = 'Hello!'
   document.getElementById('response').innerHTML = 'Nash Villarta says...'
-//  Extrawork. Here I used style.fontfamily to change the font style. I noticed that it has nearly the same commands as style.css. style.fontsize changes the font and style.color changes the color of text
+//  Extrawork. Here I used style.fontfamily to change the font style. I noticed that it has nearly the same commands as style.css. style.fontsize changes the font and style.color changes the color of text.
   document.getElementById('response').style.fontFamily = 'Courier New, monospace'
   document.getElementById('response').style.fontSize = '200%'
   alert('Hello!!!')
